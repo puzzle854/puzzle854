@@ -1,5 +1,5 @@
 ### 👋 Hi, My name is Pedro Pereira, I'm 17 years old, I'm a student on a technical course
-### 👀 I'm currently in the 3st year of Technical Education at FIAP
+### 👀 I'm currently in the 1st year of Cyber Security at FIAP
 
 ### Skills: 
 <div style="display: inline_block">
