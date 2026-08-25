@@ -1,4 +1,4 @@
-### 👋 Hi, My name is Pedro Pereira, I'm 18 years old, I'm a student on a technical course
+### 👋 Hi, My name is Pedro Pereira, I'm 18 years old, I'm a student CyberSecurity Student
 ### 👀 I'm currently in the 1st year of Cyber Security at FIAP
 
 ### Skills: 
